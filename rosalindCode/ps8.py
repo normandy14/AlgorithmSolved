@@ -1,3 +1,5 @@
+# SUBS - https://rosalind.info/problems/subs/
+
 def findMotif(substring, dnaString):
     listIndex = []
     for i in range(len(dnaString)):
