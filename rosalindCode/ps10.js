@@ -1,3 +1,5 @@
+// FIBD https://rosalind.info/problems/fibd/
+
 mortalRabbits = (n, m) => {
   if (m < 2) {
     throw 'There are no adult rabbits';
