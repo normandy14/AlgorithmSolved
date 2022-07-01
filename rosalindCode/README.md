@@ -11,10 +11,10 @@ The following problems were attempted:
   - [FIB](https://rosalind.info/problems/fib/)	Rabbits and Recurrence Relations (PS4)
   - [GC](https://rosalind.info/problems/gc/)	Computing GC Content (PS5)
   - [HAMM](https://rosalind.info/problems/hamm/)	Counting Point Mutations (PS6)
-  - [PROT](https://rosalind.info/problems/prot/)	Translating RNA into Protein
-  - [SUBS](https://rosalind.info/problems/subs/)	Finding a Motif in DNA
-  - [FIBD](https://rosalind.info/problems/fibd/)	Mortal Fibonacci Rabbits (PS10)
-  - [MPRT](https://rosalind.info/problems/mprt/)	Finding a Protein Motif
+  - [PROT](https://rosalind.info/problems/prot/)	Translating RNA into Protein (PS7)
+  - [SUBS](https://rosalind.info/problems/subs/)	Finding a Motif in DNA (PS8)
+  - [FIBD](https://rosalind.info/problems/fibd/)	Mortal Fibonacci Rabbits (PS9)
+  - [MPRT](https://rosalind.info/problems/mprt/)	Finding a Protein Motif (PS10)
 
 **Some problems** have a draft. Which is the code without good formatting and explanations and comments.
 
