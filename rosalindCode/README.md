@@ -14,7 +14,7 @@ The following problems were attempted:
   - [PROT](https://rosalind.info/problems/prot/)	Translating RNA into Protein
   - [SUBS](https://rosalind.info/problems/subs/)	Finding a Motif in DNA
   - [FIBD](https://rosalind.info/problems/fibd/)	Mortal Fibonacci Rabbits
-  - [MPRT](https://rosalind.info/problems/mprt/	Finding a Protein Motif
+  - [MPRT](https://rosalind.info/problems/mprt/)	Finding a Protein Motif
 
 **Some problems** have a draft. Which is the code without good formatting and explanations and comments.
 
