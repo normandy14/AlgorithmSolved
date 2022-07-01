@@ -1,5 +1,6 @@
 // Input: positive int n <= 40 and k <= 5
 // Output: total number of rabbits after n months, with k-produced with each generation
+// FIB - https://rosalind.info/problems/fib/
 
 rabbitSeq = (n, k) => {
   return rabbitSeqHelp (n, k, 0, 1)
