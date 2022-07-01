@@ -1,5 +1,6 @@
 // Given: A DNA string
 // Return: Four Integers
+// DNA - https://rosalind.info/problems/dna/
 
 tallyDna = (dna_string) => {
   a = 0;
