@@ -1,5 +1,6 @@
 // Input: 2 dnaStrings
 // Output: Hamming distance
+// HAMM https://rosalind.info/problems/hamm/
 
 getNumPointMutations = (dnaString1, dnaString2) => {
   var numMutations = 0;
