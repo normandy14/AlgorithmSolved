@@ -4,10 +4,10 @@ Leetcode is a platform to enhance skills, expand knowledge and prepare for techn
 ## A repo for Leetcode solutions in C++
 The following problems were attempted:
 
-- lengthOfLastWord
-- longestCommonPrefix
-- palindrome
-- twoSum
+- [lengthOfLastWord](https://leetcode.com/problems/length-of-last-word/)
+- [longestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/)
+- [palindrome](https://leetcode.com/problems/palindrome-number/)
+- [twoSum](https://leetcode.com/problems/two-sum/)
 
 **Some problems** have a draft. Which is the code without good formatting and explanations and comments.
 
