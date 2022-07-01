@@ -1,4 +1,4 @@
-// FIBD https://rosalind.info/problems/fibd/
+// FIBD - https://rosalind.info/problems/fibd/
 
 mortalRabbits = (n, m) => {
   if (m < 2) {
