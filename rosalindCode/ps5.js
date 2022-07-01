@@ -1,5 +1,6 @@
 // Input: At most DNA strings
 // Output: The id of the string with the highest GC count
+// GC - https://rosalind.info/problems/gc/
 
 maxGC = (dna_array) => {
   if (dna_array.length === 0) {
