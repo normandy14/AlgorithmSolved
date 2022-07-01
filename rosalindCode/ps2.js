@@ -1,5 +1,6 @@
 // Input: A DNA string
 // Output: A transcribed RNA string
+// RNA - https://rosalind.info/problems/rna/
 
 transcribe = (dnaString) => {
   var dnaString2 = ""
