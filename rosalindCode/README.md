@@ -5,16 +5,16 @@
 ## A repo for Rosalind solutions in NodeJS (JavaScript) and Python3
 The following problems were attempted:
 
-  - DNA	Counting DNA Nucleotides
-  - RNA	Transcribing DNA into RNA	
-  - REVC	Complementing a Strand of DNA
-  - FIB	Rabbits and Recurrence Relations
-  - GC	Computing GC Content
-  - HAMM	Counting Point Mutations
-  - PROT	Translating RNA into Protein
-  - SUBS	Finding a Motif in DNA
-  - FIBD	Mortal Fibonacci Rabbits
-  - MPRT	Finding a Protein Motif
+  - [DNA](https://rosalind.info/problems/dna/)	Counting DNA Nucleotides
+  - [RNA](https://rosalind.info/problems/rna/)	Transcribing DNA into RNA	
+  - [REVC](https://rosalind.info/problems/revc/)	Complementing a Strand of DNA
+  - [FIB](https://rosalind.info/problems/fib/)	Rabbits and Recurrence Relations
+  - [GC](https://rosalind.info/problems/gc/)	Computing GC Content
+  - [HAMM](https://rosalind.info/problems/hamm/)	Counting Point Mutations
+  - [PROT](https://rosalind.info/problems/prot/)	Translating RNA into Protein
+  - [SUBS](https://rosalind.info/problems/subs/)	Finding a Motif in DNA
+  - [FIBD](https://rosalind.info/problems/fibd/)	Mortal Fibonacci Rabbits
+  - [MPRT](https://rosalind.info/problems/mprt/	Finding a Protein Motif
 
 **Some problems** have a draft. Which is the code without good formatting and explanations and comments.
 
