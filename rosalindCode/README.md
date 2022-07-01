@@ -1,5 +1,6 @@
-# Rosalind
+# Rosalind Bionformatics Solution
 Rosalind is a platform for learning bioinformatics and programming through problem solving.
+[Rosalind Binformatics Platform](https://rosalind.info/problems/list-view/)
 
 ## A repo for Rosalind solutions in NodeJS (JavaScript) and Python3
 The following problems were attempted:
