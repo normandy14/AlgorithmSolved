@@ -1,5 +1,6 @@
 // Given: DNA string
 // Return: reverse compliment of given
+// REVC - https://rosalind.info/problems/revc/
 
 compliment = (dnaString) => {
   compDNA = ""
